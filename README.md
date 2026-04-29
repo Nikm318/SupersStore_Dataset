@@ -1,5 +1,6 @@
 # SupersStore_Dataset
 Analyzed 3+ years of Superstore retail data to uncover sales trends, category performance &amp; regional insights. Built ARIMA model to forecast next 7-day sales. Stack: Python, Seaborn, Scikit-learn
+
 ==============================================
    SUPERSTORE SALES FORECAST — PROJECT SUMMARY
 ==============================================
@@ -13,4 +14,4 @@ Key Insight  : Delivery time has negligible impact on sales (-0.0057 correlation
                Technology & Furniture are top revenue drivers.
 Tool Stack   : Python, Pandas, Statsmodels, Scikit-learn,
                Matplotlib, Seaborn
-==============================================
+
